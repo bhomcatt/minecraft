@@ -1,0 +1,9 @@
+m = wall
+g = grass
+l = light green block
+t = log
+r = netherrack
+y = yellow brick
+v = cactus
+u = glowstone
+c = stone
